@@ -1,0 +1,6 @@
+com/flowboard_service/FlowboardServiceApplication.class
+com/flowboard_service/controller/TestController.class
+com/flowboard_service/config/WebConfig.class
+com/flowboard_service/models/User.class
+com/flowboard_service/controller/UserController.class
+com/flowboard_service/repository/UserRepository.class

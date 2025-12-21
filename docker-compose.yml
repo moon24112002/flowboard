@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  springboot-app:
+    build: .
+    container_name: springboot-app
+    ports:
+      - "8084:8084"
+    restart: always
